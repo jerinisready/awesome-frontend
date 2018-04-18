@@ -4,7 +4,7 @@
 
 ### CSS 
   ##### spinkit
-   * [Tobiasahlin](http://tobiasahlin.com/spinkit/)
+   * [Tobiasahlin.com](http://tobiasahlin.com/spinkit/)
    *
   ##### Palette
    *
@@ -18,7 +18,9 @@
   ##### Progress Bar
    *
    *
-
+  ##### Text Animations
+   * [Tobiasahlin.com](http://tobiasahlin.com/moving-letters/)
+  
   ##### innertext Icons
    * Glyphicons
    * Fontawesome
