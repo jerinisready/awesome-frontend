@@ -4,7 +4,7 @@
 
 ### CSS 
   ##### spinkit
-   *
+   * [Tobiasahlin](http://tobiasahlin.com/spinkit/)
    *
   ##### Palette
    *
