@@ -36,6 +36,6 @@
    * [Animate.css](https://daneden.github.io/animate.css/)
 
   ##### Links
-   * 
+   * [w3schools.com](https://www.w3schools.com/)
    * 
    * 
