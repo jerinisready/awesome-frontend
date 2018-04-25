@@ -1,6 +1,21 @@
 # Awesome CSS  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
+* CSS
+  * Tools
+    * Spinkit
+    * Palette
+    * Spinner
+    * Loaders
+    * Progress Bar
+    * Text Animations
+    * innertext Icons
+  * Frameworks
+    * Full Scale
+    * Animation
+    
+* JS
+  * Notification Plugins
+  * Tooltips
 
 ### CSS 
   ##### spinkit
@@ -39,3 +54,17 @@
    * [w3schools.com](https://www.w3schools.com/)
    * 
    * 
+# JS Pickups
+
+### Plugins
+
+  #####  Notification Plugins
+   * [notifyjs](https://notifyjs.jpillora.com/)
+   
+  ##### Tooltips
+   * [tooltipjs](https://popper.js.org/tooltip-examples.html)
+   * [popperjs](https://popper.js.org/index.html)
+   
+   
+   
+   
