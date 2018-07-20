@@ -10,6 +10,7 @@
     * Progress Bar
     * Text Animations
     * innertext Icons
+    * Range Slider
   * Frameworks
     * Full Scale
     * Animation
@@ -41,8 +42,8 @@
    * Glyphicons
    * Fontawesome
   
-  ##### Range Options
-   * [CSS Create Range Slider](http://danielstern.ca/range.css) 
+  ##### Range Slider
+   * [CSS Create Range Slider](http://danielstern.ca/range.css) (CSS online)
    * 
 
 ### Frameworks
