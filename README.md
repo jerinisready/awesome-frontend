@@ -39,8 +39,8 @@
    * [Tobiasahlin.com](http://tobiasahlin.com/moving-letters/)
   
   ##### innertext Icons
-   * Glyphicons
-   * Fontawesome
+   * [Glyphicons](http://glyphicons.com/)
+   * [Fontawesome](http://fontawesome.com)
   
   ##### Range Slider
    * [CSS Create Range Slider](http://danielstern.ca/range.css) (CSS online)
