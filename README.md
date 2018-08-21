@@ -18,6 +18,11 @@
 * JS
   * Notification Plugins
   * Tooltips
+  
+* Services / Tools
+  * CSS Generator
+  
+
 
 ### CSS 
   ##### spinkit
@@ -25,16 +30,15 @@
    *
   ##### Palette
    *
-   *
+   
   ##### Spinner
    *
-   *
+   
   ##### Loaders
    *
-   *
+   
   ##### Progress Bar
-   *
-   *
+   * 
   ##### Text Animations
    * [Tobiasahlin.com](http://tobiasahlin.com/moving-letters/)
   
@@ -44,7 +48,7 @@
   
   ##### Range Slider
    * [CSS Create Range Slider](http://danielstern.ca/range.css) (CSS online)
-   * 
+   
 
 ### Frameworks
 
@@ -57,7 +61,7 @@
 
   ##### Links
    * [w3schools.com](https://www.w3schools.com/)
-   * 
+   
    
 # JS Pickups
 
@@ -69,7 +73,11 @@
   ##### Tooltips
    * [tooltipjs](https://popper.js.org/tooltip-examples.html)
    * [popperjs](https://popper.js.org/index.html)
-   
-   
-   
+
+
+
+### Services / Tools
+
+   #### CSS GENERATOR 
+   * [AutoPrefexer](https://autoprefixer.github.io/)  - Generate CSS for cross browser support. 
    
