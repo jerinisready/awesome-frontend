@@ -81,3 +81,7 @@
    #### CSS GENERATOR 
    * [AutoPrefexer](https://autoprefixer.github.io/)  - Generate CSS for cross browser support. 
    
+### OTHER LINKS
+ 
+* [tympanus.net](https://tympanus.net/)
+* [tympanus.net Beautiful Login](https://tympanus.net/Tutorials/CustomLoginFormStyling/index3.html)
